@@ -3,6 +3,8 @@
 **Author:** Abril Maitena Betti
 *Individual project — Algoritmos y Estructuras de Datos*
 
+[Read the full project report in Spanish (PDF)](./BettiAbril-MemoriaPracticaII.pdf)
+
 ## Overview
 
 AnimalLab is a Java application for managing transgenic mouse populations and simulating multi-generational genetic dynamics using Monte Carlo algorithms. This application was developed for a company that breeds transgenic mice for sale to laboratories, enabling its scientists to manage mouse **populations** (colonies) and the individual mice within them, tracking genetic mutations. Developed for the Algorithms and Data Structures course within the Biomedical Engineering program.
